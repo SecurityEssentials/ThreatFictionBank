@@ -5,13 +5,22 @@ Repository for 'threat fictions': short fictional pieces to inspire developers a
 This fiction bank has been created as part of the [FiVu Project](https://spritehub.org/2021/09/02/fivu-using-design-fiction-to-identify-future-vulnerabilities-in-bio-iot/), funded by the [Sprite+ network](https://spritehub.org/) under EPSRC grant [EP/S035869/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S035869/1).
 
 ## The Fictions
+<div id="FictionList"/>
 
 ## Support Contact
 
 For questions, additions or suggestions please contact **Dr Cecilia Loureiro-Koechlin** or **Dr Charles Weir**, using the [contact details here](https://spritehub.org/2021/09/02/fivu-using-design-fiction-to-identify-future-vulnerabilities-in-bio-iot/).
 
-    <script>
-      (async () => {
+<!-- Magic from https://salifm.hashnode.dev/add-javascript-code-in-md-file-for-github-pages-cke4epwmf001oaks16cjggnyc 
+The script - starting (async() - inserts the list of PDFs in the root directory into the FictionList div above.
+-->
+<div style="display: none">
+    <![CDATA[<script src="https://example.com/example.js">
+    <!--<![CDATA[--><![CDATA[
+    </script>
+    <![CDATA[<script>
+    <!--<![CDATA[--><![CDATA[
+        (async () => {
         const response = await fetch('https://api.github.com/repos/SecurityEssentials/ThreatFictionBank/contents/');
         const data = await response.json();
         let htmlString = '<ul>';
@@ -20,5 +29,7 @@ For questions, additions or suggestions please contact **Dr Cecilia Loureiro-Koe
         }
         htmlString += '</ul>';
         document.getElementsByTagName('body')[0].innerHTML = htmlString;
-      })()
-    </script>
+      })()      
+    // <![CDATA[
+    </script><![CDATA[]]>
+</div>
