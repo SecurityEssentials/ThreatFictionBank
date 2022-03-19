@@ -20,16 +20,18 @@ The script - starting (async() - inserts the list of PDFs in the root directory 
     </script>
     <![CDATA[<script>
     <!--<![CDATA[--><![CDATA[
-        (async () => {
-        const response = await fetch('https://api.github.com/repos/SecurityEssentials/ThreatFictionBank/contents/');
-        const data = await response.json();
-        let htmlString = '<ul>';
-        for (let file of data) {
-          htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
-        }
-        htmlString += '</ul>';
-        document.getElementsByTagName('body')[0].innerHTML = htmlString;
-      })()      
+          (async () => {
+    const response = await fetch('https://api.github.com/repos/SecurityEssentials/ThreatFictionBank/contents/');
+    const data = await response.json();
+    let htmlString = '<ul>';
+    for (let file of data) {
+      if (/pdf$/.test(file.path)) {
+        htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
+      }
+    }
+    htmlString += '</ul>';
+    document.getElementById('FictionList').innerHTML = htmlString;
+  })()
     // <![CDATA[
     </script><![CDATA[]]>
 </div>
