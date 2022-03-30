@@ -10,7 +10,7 @@ This fiction bank has been created as part of the [FiVu Project](https://spriteh
 4. [Third fiction](FiVu_Workshop_Story_3.pdf) - What can you do with a digital genome repository?
 
 
-![GeneVault](Genevault billboard advert v1.2-01.jpg)
+![GeneVault](https://raw.githubusercontent.com/SecurityEssentials/ThreatFictionBank/main/Genevault%20billboard%20advert.jpg)
 
 ## Support Contact
 
