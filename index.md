@@ -12,6 +12,8 @@ This fiction bank has been created as part of the [FiVu Project](https://spriteh
 
 ![GeneVault](Genevault_billboard_advert.jpg "GeneVault Ad")
 
+<img src="Genevault_billboard_advert.jpg" with=57 height =20 >
+
 ## Support Contact
 
 For questions, additions or suggestions please contact **Dr Cecilia Loureiro-Koechlin** or **Dr Charles Weir**, using the [contact details here](https://spritehub.org/2021/09/02/fivu-using-design-fiction-to-identify-future-vulnerabilities-in-bio-iot/).
