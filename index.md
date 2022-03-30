@@ -12,7 +12,7 @@ This fiction bank has been created as part of the [FiVu Project](https://spriteh
 
 ![GeneVault](Genevault_billboard_advert.jpg "GeneVault Ad")
 
-<img src="Genevault_billboard_advert.jpg" with=951 height =2058 >
+<img src="Genevault_billboard_advert.jpg" with=951 height =343 >
 
 ## Support Contact
 
