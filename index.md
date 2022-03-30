@@ -9,6 +9,9 @@ This fiction bank has been created as part of the [FiVu Project](https://spriteh
 3. [Second fiction](FiVu_Workshop_Story_2.pdf) - Use GeneVault for social, political and economic gain.
 4. [Third fiction](FiVu_Workshop_Story_3.pdf) - What can you do with a digital genome repository?
 
+
+![GeneVault](Genevault billboard advert v1.2-01.jpg)
+
 ## Support Contact
 
 For questions, additions or suggestions please contact **Dr Cecilia Loureiro-Koechlin** or **Dr Charles Weir**, using the [contact details here](https://spritehub.org/2021/09/02/fivu-using-design-fiction-to-identify-future-vulnerabilities-in-bio-iot/).
