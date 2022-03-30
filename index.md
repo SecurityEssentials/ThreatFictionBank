@@ -16,7 +16,7 @@ You can do this either alone or in group: Read the GeneVault Use Case and think 
 <img src="Genevault_billboard_advert.jpg" with="40%" height ="40%">
 
 ## Preliminay List of Threats 
-[Compilation of Threats](Compilation_of_Threats.pdf) - A compilation of threats resulted from a quick survey on security experts who read the GeneVault Use Case only. Compare you lists with this one and share your thoughts with us.
+[Compilation of Threats](Compilation_of_Threats.pdf) - A compilation of threats resulted from a quick survey on security experts who read the GeneVault Use Case only. Compare your lists with this one and share your thoughts with us.
 
 ## Support Contact
 
