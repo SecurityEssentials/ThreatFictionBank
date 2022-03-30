@@ -3,7 +3,7 @@
 This fiction bank has been created as part of the [FiVu Project](https://spritehub.org/2021/09/02/fivu-using-design-fiction-to-identify-future-vulnerabilities-in-bio-iot/), funded by the [Sprite+ network](https://spritehub.org/) under EPSRC grant [EP/S035869/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S035869/1).
 
 ## Suggestions for Use
-Read the GeneVault Use Case and think about possible threats such an app could get. Read one of the Fictions and think about possible threats the app (and data) could get in such a world setting. Think about how those threats could be reflected in real life. Repeat for two other stories. Share your thoughts with your fellow developers.
+You can do this either alone or in group: Read the GeneVault Use Case and think about possible threats such an app could get. Read one of the Fictions and think about possible threats the app (and data) could get in such a world setting. Think about how those threats could be reflected in real life. Repeat for two other stories. Share your thoughts with your fellow developers.
 
 ## The Fictions
 
@@ -14,6 +14,9 @@ Read the GeneVault Use Case and think about possible threats such an app could g
 
 
 <img src="Genevault_billboard_advert.jpg" with="40%" height ="40%">
+
+## Preliminay List of Threats 
+[Compilation of Threats](Compilation of Threats.pdf) - A compilation of threats resulted from a quick survey on security experts who read the GeneVault Use Case only. Compare you list with this one and share your thoughts with us.
 
 ## Support Contact
 
