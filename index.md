@@ -4,7 +4,7 @@ This fiction bank has been created as part of the [FiVu Project](https://spriteh
 
 ## The Fictions
 
-1. [Fictional Bio-IOT App Use Case](FiVu_Workshop_GeneVault_Use_Case.pdf)
+1. [Fictional Bio-IOT App Use Case](FiVu_Workshop_GeneVault_Use_Case.pdf) Rough Specification of a Fictional Bio-IOT App for Smartphones.
 2. [First fiction](FiVu_Workshop_Story_1.pdf)
 3. [Second fiction](FiVu_Workshop_Story_2.pdf)
 4. [Third fiction](FiVu_Workshop_Story_3.pdf)
