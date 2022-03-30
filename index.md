@@ -10,7 +10,7 @@ This fiction bank has been created as part of the [FiVu Project](https://spriteh
 4. [Third fiction](FiVu_Workshop_Story_3.pdf) - What can you do with a digital genome repository?
 
 
-![GeneVault](Genevault_billboard_advert.jpg)
+![GeneVault](Genevault_billboard_advert.jpg "GeneVault Ad")
 
 ## Support Contact
 
