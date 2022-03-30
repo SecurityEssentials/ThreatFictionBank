@@ -13,7 +13,7 @@ Read the GeneVault Use Case and think about possible threats such an app could g
 4. [Third fiction](FiVu_Workshop_Story_3.pdf) - What can you do with a digital genome repository?
 
 
-<img src="Genevault_billboard_advert.jpg" with="50%" height ="50%">
+<img src="Genevault_billboard_advert.jpg" with="40%" height ="40%">
 
 ## Support Contact
 
