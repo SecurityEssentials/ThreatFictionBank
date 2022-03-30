@@ -4,10 +4,10 @@ This fiction bank has been created as part of the [FiVu Project](https://spriteh
 
 ## The Fictions
 
-1. [Fictional Bio-IOT App Use Case](FiVu_Workshop_GeneVault_Use_Case.pdf) Rough Specification of a Fictional Bio-IOT App for Smartphones.
-2. [First fiction](FiVu_Workshop_Story_1.pdf)
-3. [Second fiction](FiVu_Workshop_Story_2.pdf)
-4. [Third fiction](FiVu_Workshop_Story_3.pdf)
+1. [Fictional Bio-IOT App Use Case](FiVu_Workshop_GeneVault_Use_Case.pdf) - Rough Specification of GeneVault, a Fictional Bio-IOT App for Smartphones.
+2. [First fiction](FiVu_Workshop_Story_1.pdf) - What happens when GeneVault can control your devices? At home, at work, everywhere!
+3. [Second fiction](FiVu_Workshop_Story_2.pdf) - Use GeneVault for social, political and economic gain.
+4. [Third fiction](FiVu_Workshop_Story_3.pdf) - What can you do with a digital genome repository?
 
 ## Support Contact
 
