@@ -2,6 +2,9 @@
 
 This fiction bank has been created as part of the [FiVu Project](https://spritehub.org/2021/09/02/fivu-using-design-fiction-to-identify-future-vulnerabilities-in-bio-iot/), funded by the [Sprite+ network](https://spritehub.org/) under EPSRC grant [EP/S035869/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/S035869/1).
 
+## Instructions
+Read the GeneVault Use Case and think about possible threats such an app could get. Read one of the Fictions and think about possible threats such an app (and data) could get this world setting. Repeat for two other stories.
+
 ## The Fictions
 
 1. [Fictional Bio-IOT App Use Case](FiVu_Workshop_GeneVault_Use_Case.pdf) - Rough Specification of GeneVault, a Fictional Bio-IOT App for Smartphones.
